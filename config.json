@@ -1,0 +1,13 @@
+{
+  "name": "Weight Map",
+  "supportEmail": "francis@directt.co.nz",
+  "version": "1.0.0",
+  "items": [
+    {
+      "url": "https://YOUR-HOST/weightmap-addin/weightmap.html",
+      "path": "ActivityLink/",
+      "menuName": { "en": "Weight map" }
+    }
+  ],
+  "isSigned": false
+}
